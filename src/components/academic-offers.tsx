@@ -13,7 +13,7 @@ export function AcademicOffers() {
               Take advantage of our broad range of academic support services.
             </p>
             <p className="text-xl md:text-2xl lg:text-3xl text-gray-700">
-              Whether you need help with online exams, classes, homework, or assignments, we're here to provide expert assistance.
+              Whether you need help with online exams, classes, homework, or assignments, we&apos;re here to provide expert assistance.
             </p>
             <p className="text-xl md:text-2xl lg:text-3xl text-gray-700">
               From thesis writing to PowerPoint presentations, our services are designed to meet all your academic needs with precision and care.
